@@ -1,0 +1,26 @@
+First level - "Pirates 101" - 1 basic enemy - 1 basic duck
+Three Basic Enemies - "Drawing of Three" - 3 basic enemies in 2 waves - 2 basic ducks
+Waves Intro Level - "Now There Are Two of Them" - 2 waves of 2 shooting enemies - 2 basic ducks
+## Long Basic Level - "The Long Yard" - 3 waves of 3/shooting basic enemies - 4 basic ducks
+Longer Basic Level - "The Longer Yard" - 4 waves of 5 basic/shooting enemies, a triangle followed by two shooters - 4 basic ducks
+Longest Basic Level - "The Longest Yard" - 6 waves of 7 basic/shooting enemies, 2 shooters followed by a wall - 6 basic ducks
+Huge Duck Level - "Armageddon" - 1 huge duck, 18 shooting enemies
+
+Kamikaze 101 - "Divine Wind" - 2 waves of 4 basic enemies - 2 kamikaze
+The Blitz - "The Blitz of London" - a ton of enemies - a ton of kamikaze
+Kamikaze Counter - "Less Divine Wind" - 1 wave of 1 shooting enemy, 1 wave of 6 basic enemies - 1 basic duck 1 kamikaze
+Indirect Exploding - "The Indirect Approach" - 2 shooters with a basic enemy passing them later, then a wave with 3 shooters and 2 basics - 3 kamikaze
+Longest Kamikaze Level - "The Longest Yard 2: Electric Boogaloo" - the longest yard enemies - 3 basic ducks 3 kamikaze
+
+Sniper Tutorial - "Book Depository" - 1 shooting enemy, 4 shooting enemies - 1 sniper duck
+Directional Enemy intro - "Vietnam" - 3 riders at top, then 2 riders at middle with shooter below - 2 sniper ducks
+## Sniper with Basics Level - "Full Metal Jacket" - riders at bottom, 2 shooters with 6 support basics, 4 waves of this - 1 sniper, 4 basics, 1 kamikaze
+Longest Sniper Level - "The Longest Yard 3: Tokyo Drift" - the longest yard enemies, with 1 rider in each wave - 1 sniper, 3 basics, 1 kamikaze
+
+Freeze Tutorial - "Ice Age" - 12 basic enemies - 1 freeze duck, 1 basic
+Freeze Basic Level - "Ice Age: The Meltdown" - 2 shooters and 1 rider, then 12 basics - 1 freeze duck, 2 basics
+Freeze With Sniper - "Simo Hayha" - 12 basic enemies, twice - 2 freeze, 1 sniper                                ///// FRUSTRATING LEVEL. maybe change sniper targeting?
+## Longest Sniper Level - "The Longest Yard 4: A New Hope" - the longest yard 3 - 1 sniper, 2 freeze, 2 basics
+## Huge Freeze Level - "Ice Age: Dawn of the Dinosaurs" - Simo Hayha enemies - 1 huge freeze duck 
+
+Final Chaos Level - "The Final Countdown" - 5 riders, 3 shooters, 3 basics, 1 final boss - 1 sniper, 5 boxer, 3 basic, 2 kamikaze 

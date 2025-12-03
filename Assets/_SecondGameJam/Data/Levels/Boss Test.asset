@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b960ea6c1bc64d46a310d1ed75dcc316, type: 3}
+  m_Name: Boss Test
+  m_EditorClassIdentifier: 
+  Name: 
+  TowerInventory:
+    AvailableTowers:
+    - Config: {fileID: 11400000, guid: f89d86a98688fe744b6457782823bb96, type: 2}
+      Count: 5
+    - Config: {fileID: 11400000, guid: 9a49b8cf62b149b43a80b02662f81059, type: 2}
+      Count: 5
+    - Config: {fileID: 11400000, guid: c16eca036194bc947ad6e818c1072c20, type: 2}
+      Count: 5
+  WavesConfig:
+    Waves:
+    - WaveDelayInSeconds: 0
+      EnemySpawns:
+      - Prefab: {fileID: 6195601872039864115, guid: 01863607bff28ac44bf45821e8f6c6db, type: 3}
+        Location: {x: -10, y: 0, z: 0}
+    - WaveDelayInSeconds: 20
+      EnemySpawns:
+      - Prefab: {fileID: 6195601872039864115, guid: 01863607bff28ac44bf45821e8f6c6db, type: 3}
+        Location: {x: -10, y: 0, z: 0}
+      - Prefab: {fileID: 3919783596547387701, guid: 928acf128d42e3c4fb6ce63c0eb7ee76, type: 3}
+        Location: {x: -10, y: 2, z: 0}
+      - Prefab: {fileID: 3919783596547387701, guid: 928acf128d42e3c4fb6ce63c0eb7ee76, type: 3}
+        Location: {x: -10, y: -3, z: 0}

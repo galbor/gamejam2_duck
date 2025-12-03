@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_SecondGameJam/Scenes/Bootstrap.unity
+    guid: 06cc24772c5cc654eacafcf07263aa29
+  - enabled: 1
+    path: Assets/_SecondGameJam/Scenes/MainMenu.unity
+    guid: bfa2b03e25a12bd4cb6ff032565042e0
+  - enabled: 1
+    path: Assets/_SecondGameJam/Scenes/Game.unity
+    guid: 4aeea3b2b42bcb84fb535ea1d08996d0
+  - enabled: 0
+    path: Assets/_SecondGameJam/Scenes/Testing/TowerInventory.unity
+    guid: 23e1e815babdb3d4c824222841045778
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 69934ee023e63114cb1f1064ffccd1c1, type: 2}

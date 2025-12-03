@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b960ea6c1bc64d46a310d1ed75dcc316, type: 3}
+  m_Name: 8.Kamikaze101
+  m_EditorClassIdentifier: 
+  Name: Divine Wind
+  TowerInventory:
+    AvailableTowers:
+    - Config: {fileID: 11400000, guid: 8161890d0f627de44a19fc00b58cea9d, type: 2}
+      Count: 2
+  WavesConfig:
+    Waves:
+    - WaveDelayInSeconds: 0.5
+      EnemySpawns:
+      - Prefab: {fileID: 8040930599802596899, guid: af205a0084b15a54ab1107d9aa88589f, type: 3}
+        Location: {x: -11, y: 1, z: 0}
+      - Prefab: {fileID: 8040930599802596899, guid: af205a0084b15a54ab1107d9aa88589f, type: 3}
+        Location: {x: -11, y: 2, z: 0}
+      - Prefab: {fileID: 8040930599802596899, guid: af205a0084b15a54ab1107d9aa88589f, type: 3}
+        Location: {x: -12, y: 1, z: 0}
+      - Prefab: {fileID: 8040930599802596899, guid: af205a0084b15a54ab1107d9aa88589f, type: 3}
+        Location: {x: -12, y: 2, z: 0}
+    - WaveDelayInSeconds: 5
+      EnemySpawns:
+      - Prefab: {fileID: 8040930599802596899, guid: af205a0084b15a54ab1107d9aa88589f, type: 3}
+        Location: {x: -11, y: -3, z: 0}
+      - Prefab: {fileID: 8040930599802596899, guid: af205a0084b15a54ab1107d9aa88589f, type: 3}
+        Location: {x: -11, y: -2, z: 0}
+      - Prefab: {fileID: 8040930599802596899, guid: af205a0084b15a54ab1107d9aa88589f, type: 3}
+        Location: {x: -12, y: -3, z: 0}
+      - Prefab: {fileID: 8040930599802596899, guid: af205a0084b15a54ab1107d9aa88589f, type: 3}
+        Location: {x: -12, y: -2, z: 0}

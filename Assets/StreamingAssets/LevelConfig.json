@@ -1,0 +1,16 @@
+{
+  "levels": [
+    {
+      "levelName": "Level 1",
+      "displayName": "The First Level"
+    },
+    {
+      "levelName": "Level 2",
+      "displayName": "The second level"
+    },
+    {
+      "levelName": "Level 3",
+      "displayName": "The third level"
+    }
+  ]
+}

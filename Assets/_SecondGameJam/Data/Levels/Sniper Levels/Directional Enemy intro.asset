@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eeaa5c8426f241928e919a2b0d90c38d, type: 3}
+  m_Name: Directional Enemy intro
+  m_EditorClassIdentifier: 
+  Name: Vietnam
+  Waves:
+  - WaveDelayInSeconds: 0.5
+    EnemySpawns:
+    - Prefab: {fileID: 3057476422105423392, guid: a7409967ce0a53440b4674a5ff077971, type: 3}
+      Location: {x: -13, y: 3, z: 0}
+    - Prefab: {fileID: 3057476422105423392, guid: a7409967ce0a53440b4674a5ff077971, type: 3}
+      Location: {x: -11, y: 2, z: 0}
+    - Prefab: {fileID: 3057476422105423392, guid: a7409967ce0a53440b4674a5ff077971, type: 3}
+      Location: {x: -12, y: 1, z: 0}
+  - WaveDelayInSeconds: 5
+    EnemySpawns:
+    - Prefab: {fileID: 3057476422105423392, guid: a7409967ce0a53440b4674a5ff077971, type: 3}
+      Location: {x: -11, y: -1, z: 0}
+    - Prefab: {fileID: 3057476422105423392, guid: a7409967ce0a53440b4674a5ff077971, type: 3}
+      Location: {x: -12, y: 0, z: 0}
+    - Prefab: {fileID: 8040930599802596899, guid: 89b93502689d52c4a81cb6543a4de726, type: 3}
+      Location: {x: -14, y: -2, z: 0}
+  Towers:
+  - Tower: {fileID: 11400000, guid: 8d89658ab78fe834ea1d835de51ebd9c, type: 2}
+    Amount: 2

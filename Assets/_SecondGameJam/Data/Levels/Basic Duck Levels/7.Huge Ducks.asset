@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b960ea6c1bc64d46a310d1ed75dcc316, type: 3}
+  m_Name: 7.Huge Ducks
+  m_EditorClassIdentifier: 
+  Name: Armageddon
+  TowerInventory:
+    AvailableTowers:
+    - Config: {fileID: 11400000, guid: c89f162df6ac5554c90bbacf4e66a86d, type: 2}
+      Count: 1
+  WavesConfig:
+    Waves:
+    - WaveDelayInSeconds: 0.5
+      EnemySpawns:
+      - Prefab: {fileID: 8040930599802596899, guid: 89b93502689d52c4a81cb6543a4de726, type: 3}
+        Location: {x: -11, y: -3, z: 0}
+      - Prefab: {fileID: 8040930599802596899, guid: 89b93502689d52c4a81cb6543a4de726, type: 3}
+        Location: {x: -11, y: 1, z: 0}
+      - Prefab: {fileID: 8040930599802596899, guid: 89b93502689d52c4a81cb6543a4de726, type: 3}
+        Location: {x: -11, y: -2, z: 0}
+      - Prefab: {fileID: 8040930599802596899, guid: 89b93502689d52c4a81cb6543a4de726, type: 3}
+        Location: {x: -11, y: 0, z: 0}
+      - Prefab: {fileID: 8040930599802596899, guid: 89b93502689d52c4a81cb6543a4de726, type: 3}
+        Location: {x: -11, y: -1, z: 0}
+    - WaveDelayInSeconds: 0.5
+      EnemySpawns:
+      - Prefab: {fileID: 8040930599802596899, guid: 89b93502689d52c4a81cb6543a4de726, type: 3}
+        Location: {x: -11, y: -3, z: 0}
+      - Prefab: {fileID: 8040930599802596899, guid: 89b93502689d52c4a81cb6543a4de726, type: 3}
+        Location: {x: -11, y: 1, z: 0}
+      - Prefab: {fileID: 8040930599802596899, guid: 89b93502689d52c4a81cb6543a4de726, type: 3}
+        Location: {x: -11, y: -2, z: 0}
+      - Prefab: {fileID: 8040930599802596899, guid: 89b93502689d52c4a81cb6543a4de726, type: 3}
+        Location: {x: -11, y: 0, z: 0}
+      - Prefab: {fileID: 8040930599802596899, guid: 89b93502689d52c4a81cb6543a4de726, type: 3}
+        Location: {x: -11, y: -1, z: 0}

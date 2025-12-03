@@ -1,0 +1,11 @@
+Border: -2
+Bathwater: -1
+Foam: 0
+Range of gun: 2
+Bullet: 4
+Gun: 5
+Freeze Ray: 15
+Character prefab: 40
+Enemy1 prefab: 40
+explosion: 50
+Tap: 50
